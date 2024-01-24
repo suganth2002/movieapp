@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//suganth2002.github.io/movieapp/static/css/main.5683b070.css",
+    "main.js": "/https//suganth2002.github.io/movieapp/static/js/main.cb0189b0.js",
+    "static/media/imdb.png": "/https//suganth2002.github.io/movieapp/static/media/imdb.cc3eea47c2e856492495.png",
+    "index.html": "/https//suganth2002.github.io/movieapp/index.html",
+    "main.5683b070.css.map": "/https//suganth2002.github.io/movieapp/static/css/main.5683b070.css.map",
+    "main.cb0189b0.js.map": "/https//suganth2002.github.io/movieapp/static/js/main.cb0189b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5683b070.css",
+    "static/js/main.cb0189b0.js"
+  ]
+}
